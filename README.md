@@ -1,5 +1,7 @@
 # 💫 About Me:
-{Hello World !}<br>if(Happy) return makingWebsite();<br>else return sleeping();
+## {Hello World !}
+### if (Happy) return makingWebsite();
+### else return sleeping();
 
 
 ## 🌐 Socials:
